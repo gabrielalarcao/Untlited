@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dhyol", "Dhyol\Dhyol.csproj", "{AA2B419B-0BAB-40F3-AF04-EF833D55E896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2B419B-0BAB-40F3-AF04-EF833D55E896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2B419B-0BAB-40F3-AF04-EF833D55E896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2B419B-0BAB-40F3-AF04-EF833D55E896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2B419B-0BAB-40F3-AF04-EF833D55E896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FD324A-1A8A-42FD-AE07-4B719954E06E}
+	EndGlobalSection
+EndGlobal
